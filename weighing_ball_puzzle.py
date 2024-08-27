@@ -1,6 +1,6 @@
 """
 Script Name: Weighing ball puzzle solver
-Author: Kenneth Plum Toft   
+Author: Kenneth Toft   
 Date: 2024-08-27
 Description: This python script given a number of the odd ball and wether the odd ball is light or heavy, 
 can then find the odd ball and tell if it is heavier or lighter assuming it doesnt know the input. The script will 

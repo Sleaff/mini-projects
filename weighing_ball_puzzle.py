@@ -3,8 +3,9 @@ Script Name: Weighing ball puzzle solver
 Author: Kenneth Toft   
 Date: 2024-08-27
 Description: This python script given a number of the odd ball and wether the odd ball is light or heavy, 
-can then find the odd ball and tell if it is heavier or lighter assuming it doesnt know the input. The script will 
-log the steps taken, thus help the user understand the algorithm used to solve this problem.
+can then find the odd ball and tell if it is heavier or lighter assuming it doesnt know the input. 
+The script will always find the odd boll and it's type in 3 steps and log the steps taken, 
+thus help the user understand the algorithm used to solve this problem.
 A problem solution can be found at: https://www.mathsisfun.com/pool_balls_solution.html
 """
 import random
